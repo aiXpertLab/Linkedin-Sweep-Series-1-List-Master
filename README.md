@@ -76,6 +76,7 @@ Python serves as the intermediary connecting the website, ChatGPT, and your pers
 
 # Quick start
 
+0. First of all, copy .env.bak file to .env, and modify .env using your Linkedin user and pwd.
 1. Python 3.12.2
 2. Selenium & chromedriver installed (watch how in this one).
 https://chromedriver.chromium.org/
